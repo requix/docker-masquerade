@@ -1,4 +1,4 @@
-FROM romeoz/docker-nginx-php:7.2
+FROM romeoz/docker-apache-php:7.1
 MAINTAINER Volodymyr Marynychev <requix@gmail.com>
 
 RUN apt-get update
